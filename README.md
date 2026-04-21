@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="https://github.com/dwgx/WindsurfAPI/stargazers"><img src="https://img.shields.io/github/stars/dwgx/WindsurfAPI?style=for-the-badge&logo=github&color=f5c518" alt="Stars"></a>&nbsp;
-  <a href="https://github.com/dwgx"><img src="https://img.shields.io/github/followers/dwgx?label=Follow&style=for-the-badge&logo=github&color=181717" alt="Follow"></a>
-  &nbsp;·&nbsp;
-  <a href="README.en.md">English</a>
-</p>
----
-
 把 [Windsurf](https://windsurf.com)（原 Codeium）的 AI 模型变成**两套标准 API 同时兼容**：
 
 - `POST /v1/chat/completions` — **OpenAI 兼容** 任何 OpenAI SDK 直接用
