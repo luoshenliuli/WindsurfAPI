@@ -1,18 +1,9 @@
-# 给我点 Star 和 Follow 我就不管你了
-
 <p align="center">
   <a href="https://github.com/dwgx/WindsurfAPI/stargazers"><img src="https://img.shields.io/github/stars/dwgx/WindsurfAPI?style=for-the-badge&logo=github&color=f5c518" alt="Stars"></a>&nbsp;
   <a href="https://github.com/dwgx"><img src="https://img.shields.io/github/followers/dwgx?label=Follow&style=for-the-badge&logo=github&color=181717" alt="Follow"></a>
   &nbsp;·&nbsp;
   <a href="README.en.md">English</a>
 </p>
-
-# 严正声明：未经作者明确书面许可，严禁任何商业使用、转售、代部署或中转售卖
-
-> 本项目目前仅供获准范围内使用。
-> 未经作者明确书面授权，禁止将本项目用于商业用途、付费代部署、挂后台对外提供服务、包装成中转服务出售，或以任何形式转售。
-> 对未经授权的商业使用与传播行为，作者保留公开说明、取证和追责的权利。
-
 ---
 
 把 [Windsurf](https://windsurf.com)（原 Codeium）的 AI 模型变成**两套标准 API 同时兼容**：
